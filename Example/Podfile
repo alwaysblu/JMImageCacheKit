@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JMImageCacheKit_Example' do
+  pod 'JMImageCacheKit', :path => '../'
+
+  target 'JMImageCacheKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
