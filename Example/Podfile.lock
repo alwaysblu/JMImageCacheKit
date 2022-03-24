@@ -1,0 +1,16 @@
+PODS:
+  - JMImageCacheKit (0.1.0)
+
+DEPENDENCIES:
+  - JMImageCacheKit (from `../`)
+
+EXTERNAL SOURCES:
+  JMImageCacheKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JMImageCacheKit: 649c49d4c8f769e29f42977ac43b27ee3f72e727
+
+PODFILE CHECKSUM: 05ed1baa0d712643a6e7c06f19eeb8b713623af5
+
+COCOAPODS: 1.11.3
