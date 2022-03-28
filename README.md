@@ -9,7 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![imageCacheKit](https://user-images.githubusercontent.com/75533266/160398618-b850c205-a71b-49f3-9db2-8aa5c11303e6.gif)
+
+
 ## Requirements
+
 
 ## Installation
 
